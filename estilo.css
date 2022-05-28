@@ -1,0 +1,59 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+/* div{
+    border: 1px solid red;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.relative{
+    position: relative;
+    left: 80px;
+}
+.fixed{
+    position: fixed;
+}
+.absolute{
+    top: 250px;
+    position: absolute;
+}
+ */
+
+.titulo{
+    display: inline;
+}
+.texto{
+    text-align: center;
+    color: #48e;
+    background: #000;
+}
+.contenedor{
+display: flex;
+flex-wrap: wrap;
+}
+.imagenes{
+height: 300px;
+width: 300px;
+display: flex;
+
+}
+.imagen{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.texto1{
+    color: red;
+}
+.texto2{
+    color: #0f0;
+}
+.con{
+    display: flex;
+    flex-wrap: wrap;
+} 
